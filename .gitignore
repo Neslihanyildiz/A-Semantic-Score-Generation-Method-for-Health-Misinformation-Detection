@@ -1,0 +1,36 @@
+# Virtual Environments (Sanal Ortamlar)
+trumorgpt_env/
+venv/
+env/
+.env
+
+# Python Cache (Python Önbellek Dosyaları)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Cache (Jupyter Otomatik Kayıtları)
+.ipynb_checkpoints/
+
+# Data and Cache Files (Büyük Veri ve Özellik Önbellekleri)
+# (Sadece kodun ürettiği ağır dosyaların yüklenmesini engeller)
+*.npz
+*.csv
+*.parquet
+*.h5
+*.dat
+
+# OS Generated Files (İşletim Sistemi Gizli Dosyaları)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE Configurations (Editör/Geliştirici Ayarları)
+.vscode/
+.idea/
+*.swp
+*.swo
