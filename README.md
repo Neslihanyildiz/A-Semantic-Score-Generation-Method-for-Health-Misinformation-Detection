@@ -287,3 +287,18 @@ networkx
 - Self-match exclusion during training feature extraction uses index-based lookup (not similarity threshold) for reliability.
 - No direct comparison to GPT-3.5/LLaMA/Claude/Gemini baselines is made, as those numbers come from different datasets and splits.
 - The `en_core_web_sm` model does **not** include a `DISEASE` entity type; biomedical NER (e.g., scispaCy `en_ner_bc5cdr_md`) would improve `graph_score` quality.
+
+---
+
+
+## Team
+
+| Name | GitHub | Role |
+|------|--------|------|
+| Sakarie Hussein Ali | [@sack-ali](https://github.com/sack-ali) | Pipeline architecture, graph construction, GraphRAG |
+| Neslihan Yıldız | [@Neslihanyildiz](https://github.com/Neslihanyildiz) | Data preprocessing, BERT embeddings, evaluation |
+| Sema Nur Aktaş | [@semanurakts](https://github.com/semanurakts)| Topic modeling, TST, NLI reasoning |
+
+**Institution:** Üsküdar University — Faculty of Engineering and Natural Sciences
+**Course:** Artificial Intelligence
+**Year:** 2024–2025
