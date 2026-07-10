@@ -5,7 +5,7 @@
 
 ## 🏆 Recognition
 
-> **Selected as 1 of 3 projects** representing the Faculty of Engineering and Natural Sciences at Üsküdar University Student Congress 2026 — ranked **1st among all submitted projects**.
+> **Selected as 1 of 3 projects** representing the Faculty of Engineering and Natural Sciences at Üsküdar University Student Congress 2026.
 
 ---
 
