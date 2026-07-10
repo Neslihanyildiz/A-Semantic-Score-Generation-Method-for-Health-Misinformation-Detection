@@ -293,12 +293,12 @@ networkx
 
 ## Team
 
-| Name | GitHub | Role |
-|------|--------|------|
-| Sakarie Hussein Ali | [@sack-ali](https://github.com/sack-ali) | Pipeline architecture, graph construction, GraphRAG |
-| Neslihan Yıldız | [@Neslihanyildiz](https://github.com/Neslihanyildiz) | Data preprocessing, BERT embeddings, evaluation |
-| Sema Nur Aktaş | [@semanurakts](https://github.com/semanurakts)| Topic modeling, TST, NLI reasoning |
+| Name | GitHub | 
+|------|--------|
+| Sakarie Hussein Ali | [@sack-ali](https://github.com/sack-ali) |
+| Neslihan Yıldız | [@Neslihanyildiz](https://github.com/Neslihanyildiz) | 
+| Sema Nur Aktaş | [@semanurakts](https://github.com/semanurakts)| 
 
 **Institution:** Üsküdar University — Faculty of Engineering and Natural Sciences
 **Course:** Artificial Intelligence
-**Year:** 2024–2025
+**Year:** 2025-2026
