@@ -3,6 +3,12 @@
 
 ---
 
+## 🏆 Recognition
+
+> **Selected as 1 of 3 projects** representing the Faculty of Engineering and Natural Sciences at Üsküdar University Student Congress 2025 — ranked **1st among all submitted projects**.
+
+---
+
 ## 📋 Project Overview
 
 This project implements **TrumorGPT**, a health misinformation detection pipeline that combines:
